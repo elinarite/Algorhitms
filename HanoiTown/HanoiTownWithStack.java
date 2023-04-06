@@ -1,4 +1,4 @@
-package Algoritmi_HW;
+package Algoritmi_HW.HanoiTown;
 
 import java.util.Stack;
 
